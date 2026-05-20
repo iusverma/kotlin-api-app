@@ -14,8 +14,8 @@ gradle and kotlin should be installed.
 Ctrl C on terminal
 
 # Postman
-Http Method: POST
-URL: http://localhost:8080/api/validate
-Header: Content-Type: application/json
-Request: Check src/sample/request.json
+* Http Method: POST
+* URL: http://localhost:8080/api/validate
+* Header: Content-Type: application/json
+* Request: Check src/sample/request.json
    
